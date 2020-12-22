@@ -1,4 +1,4 @@
 www:
-	@python2 -m SimpleHTTPServer 3001
+	@python2 -m SimpleHTTPServer 46658
 
 .PHONY: www
